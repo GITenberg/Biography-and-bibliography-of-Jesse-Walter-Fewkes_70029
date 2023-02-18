@@ -1,0 +1,25 @@
+_repo: Biography-and-bibliography-of-Jesse-Walter-Fewkes_70029
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Nichols, Frances Sellman
+    gutenberg_agent_id: '55548'
+    url: http://www.gutenberg.org/2009/agents/55548
+description: ''
+gutenberg_issued: '2023-02-12'
+identifiers:
+  gutenberg: '70029'
+language: en
+pgterms:marc905: 20221225114655nichols
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bFrances Sellman Nichols, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Biography and bibliography of Jesse Walter Fewkes
+url: http://www.gutenberg.org/ebooks/70029
