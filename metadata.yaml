@@ -5,7 +5,12 @@ contributor:
     agent_name: Nichols, Frances Sellman
     gutenberg_agent_id: '55548'
     url: http://www.gutenberg.org/2009/agents/55548
+covers:
+- cover_type: archival
+  image_path: 70029-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70029#Biography-and-bibliography-of-Jesse-Walter-Fewkes
 gutenberg_issued: '2023-02-12'
 identifiers:
   gutenberg: '70029'
